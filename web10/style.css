@@ -1,0 +1,22 @@
+.image{
+	width: 200px;
+	height: 150px;
+	border: 1px solid #ccc;
+	float: left;
+}
+.image .pic{
+	width: 200px;
+	height: 100px;
+	padding: 5px 0px;
+	opacity: 0.5;
+}
+.image a:hover img{
+	border: 1px solid #bebebe;
+	opacity: 1;
+}
+.image .desc{
+	font-size: 14px;
+	font-weight: bold;
+	color: #aaa;
+	text-align: center;
+}
